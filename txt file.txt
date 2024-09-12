@@ -25,9 +25,10 @@ Which artist painted "Starry Night"?
 Vincent van Gogh
 Question 8:
 Who wrote the novel "1984"?
-
+George Orwell
 Question 9:
 What is the smallest bone in the human body?
-
+The Stapes
 Question 10:
 What is the tallest mountain in Africa?
+Mount Kilimanjaro
